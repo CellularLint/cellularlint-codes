@@ -1,0 +1,28 @@
+---------------Results from Model Bert---------------
+
+Precision: 0.30562030562030557
+Recall: 0.3111111111111111
+Accuracy: 0.32727272727272727
+F1 Score: 0.30452385143460653
+
+---------------Results from Model Roberta---------------
+
+Precision: 0.1921921921921922
+Recall: 0.3
+Accuracy: 0.2727272727272727
+F1 Score: 0.22064777327935223
+
+---------------Results from Model XLNet---------------
+
+Precision: 0.11728395061728396
+Recall: 0.31666666666666665
+Accuracy: 0.34545454545454546
+F1 Score: 0.17117117117117117
+
+---------------Results from Model Encell---------------
+
+Precision: 0.29185185185185186
+Recall: 0.29444444444444445
+Accuracy: 0.3090909090909091
+F1 Score: 0.2907082521117609
+
