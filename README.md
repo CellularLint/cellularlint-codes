@@ -18,8 +18,8 @@ for 4G and 5G datasets, respectively. Each of these should generate one PDF and 
     - *heatmap_4G.pdf*,
     - *5G_embedding_times.png*, and
     - *heatmap_5G.pdf*.
-  
-The PDF files can be compared to Figure 3 of the paper, and PNG files can be compared to Figure 4 of the paper.
+
+    The PDF files can be compared to Figure 3 of the paper, and PNG files can be compared to Figure 4 of the paper.
 
 2. Follow these instructions to train and use the language models- 
     * Run the notebooks sequentially in the following order-
