@@ -21,7 +21,9 @@ Please follow these steps to set up the environment-
 * Run ```pip install -r requirements.txt``` to install the required packages. (Note: The requirements were generated using `pip freeze` and modified manually to consider only the required packages. If a package is missing or runs into a problem, you may remove the specific version number, and it should still work.)
 
 ## Running the experiments
-1. From the main directory, run-
+1. The following experiment is to generate figures similar to **Figure 3** and **Figure 4** of the paper.
+
+   From the main directory, run-
 ```python3 tokenizer_and_sim_matrix.py 4G```
 and
 ```python3 tokenizer_and_sim_matrix.py 5G```
@@ -33,7 +35,9 @@ for 4G and 5G datasets, respectively. Each of these should generate one PDF and 
 
     The PDF files can be compared to Figure 3 of the paper, and PNG files can be compared to Figure 4 of the paper.
 
-2. Follow these instructions to train and use the language models- 
+2. The following experiment is to generate the models' performance metrics.
+  
+   Follow these instructions to train and use the language models- 
     * Run the notebooks sequentially in the following order-
         - *train_bert.ipynb*,
         - *train_roberta.ipynb*,
