@@ -38,7 +38,7 @@ for 4G and 5G datasets, respectively. Each of these should generate one PDF and 
 2. The following experiment is to generate the models' performance metrics.
   
    Follow these instructions to train and use the language models- 
-    * Run the notebooks sequentially in the following order-
+    * Run the notebooks **sequentially** in the following order. (If you are using Jupyter GUI, you may do `Kernel`>`Restart & Run All` for each of them)-
         - *train_bert.ipynb*,
         - *train_roberta.ipynb*,
         - *train_xlnet.ipynb*,
