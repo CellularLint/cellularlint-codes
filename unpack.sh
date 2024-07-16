@@ -1,5 +1,7 @@
 #!/bin/bash
 
+mkdir -p saved_models phase_models
+
 # Set the directory name here
 directory="Pretrained Models"
 
