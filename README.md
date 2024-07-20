@@ -46,4 +46,4 @@ for 4G and 5G datasets, respectively. Each of these should generate one PDF and 
         - *phase_train_roberta.ipynb*, and
         - *phase_train_xlnet.ipynb*
       
-    * From the ```eval/``` directory, run ```python3 -W ignore eval.py```. It should generate the metrics like Table 1 (one phase) of the paper.
+    * From the ```eval/``` directory, run ```python3 -W ignore eval.py```. It should generate the metrics (See `output_metrics.txt` in the same directory) like Table 1 (one phase) of the paper.
