@@ -47,3 +47,18 @@ for 4G and 5G datasets, respectively. Each of these should generate one PDF and 
         - *phase_train_xlnet.ipynb*
       
     * From the ```eval/``` directory, run ```python3 -W ignore eval.py```. It should generate the metrics (See `output_metrics.txt` in the same directory) like Table 1 (one phase) of the paper.
+
+
+## Citation
+If you use the code or dataset used here, please cite our paper:
+```
+@article{rahman2024cellularlintsystematicapproachidentify,
+      title={CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications}, 
+      author={Mirza Masfiqur Rahman and Imtiaz Karim and Elisa Bertino},
+      year={2024},
+      eprint={2407.13742},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2407.13742}, 
+}
+```
