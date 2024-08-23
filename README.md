@@ -52,13 +52,16 @@ for 4G and 5G datasets, respectively. Each of these should generate one PDF and 
 ## Citation
 If you use the code or dataset used here, please cite our paper:
 ```
-@article{rahman2024cellularlintsystematicapproachidentify,
-      title={CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications}, 
-      author={Mirza Masfiqur Rahman and Imtiaz Karim and Elisa Bertino},
-      year={2024},
-      eprint={2407.13742},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2407.13742}, 
+@inproceedings {298168,
+author = {Mirza Masfiqur Rahman and Imtiaz Karim and Elisa Bertino},
+title = {{CellularLint}: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications},
+booktitle = {33rd USENIX Security Symposium (USENIX Security 24)},
+year = {2024},
+isbn = {978-1-939133-44-1},
+address = {Philadelphia, PA},
+pages = {5215--5232},
+url = {https://www.usenix.org/conference/usenixsecurity24/presentation/rahman},
+publisher = {USENIX Association},
+month = aug
 }
 ```
