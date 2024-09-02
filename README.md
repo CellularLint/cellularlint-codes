@@ -1,5 +1,5 @@
 # cellularlint-codes
-### (The contents of the repository are currently under Artifact Evaluation from USENIX Security)
+
 
 ## Hardware Specifications
 CellularLint was successfully run with the following hardware-
