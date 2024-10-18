@@ -1,5 +1,5 @@
-# cellularlint-codes
-
+# Cellularlint
+The repository presents the code for the paper "[CellularLint](https://cellularlint.github.io/): A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications", published at the 33rd USENIX Security Symposium (2024).
 
 ## Hardware Specifications
 CellularLint was successfully run with the following hardware-
